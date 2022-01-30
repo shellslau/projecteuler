@@ -22,4 +22,4 @@ while not is_prime(num):
 	i += 1
 factors.append(num)
 
-print factors
+print (factors)
